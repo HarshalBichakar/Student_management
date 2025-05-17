@@ -1,12 +1,70 @@
-# React + Vite
+# 🎓 Student Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> **A full-stack web application to efficiently manage student records**  
+> _Built with React.js, Node.js, and MongoDB_
 
-Currently, two official plugins are available:
+[🚀 Live Demo – Coming Soon]()
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📋 Table of Contents
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [About the Project](#about-the-project)  
+- [Features](#features)  
+- [Tech Stack](#tech-stack)  
+- [Getting Started](#getting-started)  
+  - [Prerequisites](#prerequisites)  
+  - [Installation](#installation)  
+- [Usage](#usage)  
+- [Screenshots](#screenshots)  
+- [Contact](#contact)  
+- [License](#license)  
+
+---
+
+## 🚀 About the Project
+
+The **Student Management System** is a full-stack CRUD application developed for efficient management of student data including adding, updating, viewing, and deleting records. The system includes real-time updates and a clean, user-friendly interface for administrative tasks.
+
+---
+
+## ✨ Features
+
+- Add, edit, view, and delete student records  
+- Search functionality for quick access  
+- Responsive UI for desktop and mobile  
+- Real-time updates and form validation  
+- RESTful API integration  
+- MongoDB-backed database
+
+---
+
+## 🛠️ Tech Stack
+
+> This project is built using the MERN stack:
+
+- ⚛️ **React.js** – Frontend UI  
+- 🌐 **Node.js & Express.js** – Backend API  
+- 🗃️ **MongoDB** – Database  
+- 💅 **Tailwind CSS / Bootstrap** – Styling (choose one based on your setup)  
+- 🔐 **Mongoose** – ODM for MongoDB  
+- 🛠️ **Postman** – API Testing  
+
+---
+
+## ⚙️ Getting Started
+
+Follow these instructions to set up the project locally.
+
+### ✅ Prerequisites
+
+- Node.js v14+  
+- MongoDB installed locally or use MongoDB Atlas  
+- Git  
+
+### 🔧 Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/HarshalBichakar/Student_management.git
+   cd Student_management
